@@ -3,7 +3,7 @@ A feedforward classification model without any tools with automatic differentiat
 
 ### Dataset: Fashion-MNIST
 ```
-This dataset is given in the form of numpy array files (.npy) named “train x.npy”, “train y.npy”,
+This dataset in "fashion_mnist.zip" is given in the form of numpy array files (.npy) named “train x.npy”, “train y.npy”,
 “test x.npy” and “test y.npy”, where “x” indicates images and “y” indicates the corresponding labels
 ```
  
